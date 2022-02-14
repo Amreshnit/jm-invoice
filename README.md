@@ -122,9 +122,9 @@ $ npm link html-pdf
 $ npm link phantomjs-prebuilt
 ```
 
-## Docker
+## setup .env
 
-Using docker is simple. Just add the .env contextualized with the docker network.
+
 
 e.g:
 
@@ -145,15 +145,7 @@ REACT_APP_API = http://localhost:5000
 REACT_APP_URL = http://localhost
 ```
 
-And run
 
-```
-docker-compose -f docker-compose.prod.yml build
-
-And then
-
-docker-compose -f docker-compose.prod.yml up
-```
 
 ## Comment
 I intend to keep adding more features to this application, so if you like it, please give it a star, that will encourage me to 
