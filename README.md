@@ -16,7 +16,7 @@ Built with the MERN stack (MongoDB, Express, React and NodeJS).
   * 
 
 ## Introduction
-This is a side project I've been working on. A full stack invoicing application made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed for freelancers and small businesses, but can be used for almost any type of business need. With this application, you can send beautiful invoices, receipts, estimates, quotes, bills etc to your clients. Jump right off the [Live App](https://jm-invoice.herokuapp.com/) and start sending invoice or download the entire [Source code](https://github.com/Amreshnit/jm-invoice) and run it on your server. This project is something I've been working on in my free time so I cannot be sure that everything will work out correctly. But I'll appreciate you if can report any issue.
+A full stack invoicing application made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed for freelancers and small businesses, but can be used for almost any type of business need. With this application, you can send beautiful invoices, receipts, estimates, quotes, bills etc to your clients. Jump right off the [Live App](https://jm-invoice.herokuapp.com/) and start sending invoice or download the entire [Source code](https://github.com/Amreshnit/jm-invoice) and run it on your server. This project is something I've been working on in my free time so I cannot be sure that everything will work out correctly. But I'll appreciate you if can report any issue.
 
 ![Invoice Dashboard](https://res.cloudinary.com/ddp9vluwk/image/upload/v1643877486/samples/Jm%20invoice/urt7lg3m0w9j7ufy8fks.jpg)
 
